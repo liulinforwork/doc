@@ -1,0 +1,78 @@
+幸运轮马币赎回跳转页面地址（原生）
+
+马币赎回测试环境跳转地址 http://test.h5.com/lucky/html/redeem.html
+马币赎回预发布跳转地址 https://preh5.madrock.com.cn/lucky/html/redeem.html
+马币赎回正式环境跳转地址 https://h5.makeba.com/lucky/html/redeem.html
+原生传递参数和跳转至活动列表页一致。
+
+手机业务参数: ?pim=a53a1695a8920b38383d07df393bced4&userId=7154&coordinate=[30.588552,104.05451]
+
+http://test.h5.com/lucky/html/activityList.html?pim=a53a1695a8920b38383d07df393bced4&userId=7154&coordinate=[30.588552,104.05451]
+
+
+
+审核地址: http://test.back.com 
+
+禅道: http://192.168.1.222:81/zentao/user-login-L3plbnRhby9teS5odG1s.html
+
+ftp地址: ftp://192.168.1.222/
+
+高德地图key: javascript KEY=  f765d6b350eb0744f00d395812e98ffc
+
+
+幸运轮正式环境
+h5.madrock.com.cn
+
+幸运轮预发布环境
+preh5.madrock.com.cn
+
+幸运轮测试环境
+test.h5.com
+
+速闻后台正式环境
+e.web.makeba.com
+
+速闻后台预发布环境
+pre.eweb.makeba.com
+
+速闻后台测试环境
+test.eweb.com
+
+这个是到店扫预发布跳转地址 http://preh5.madrock.com.cn/lucky/html/store.html 
+这个是到店扫正式环境跳转地址 http://h5.madrock.com.cn/lucky/html/store.html 
+
+速闻详情测试页面:http://test.h5.com/speedDetail/speedDetail.html
+
+预发布环境的速闻详情：http://pre.eweb.makeba.com/speedDetail/speedDetail.html
+
+广告详情测试页面:http://test.h5.com/speedDetail/viewadDetail.html(群成员)
+
+广告详情测试页面:http://test.h5.com/speedDetail/auditGroup.html(群主)
+
+广告详情预发布页面:http://pre.eweb.makeba.com/speedDetail/viewadDetail.html(群成员)
+
+广告详情预发布页面:http://pre.eweb.makeba.com/speedDetail/auditGroup.html(群主)
+
+
+
+测试环境 
+http://test.h5.com/back/speedNews/html/index.html#/speedNews/speedNewsList
+http://test.eweb.com/
+madrock
+
+http://coderschool.cn/1853.html
+http://preh5.madrock.com.cn/lucky/html/activityList.html
+https://detail.tmall.com/item.htm?id=536624016945&spm=a1z09.2.0.0.96pNjE&_u=ovst9q42963
+http://test.h5.com/lucky/html/activityList.html?terminal=1&pim=f489a2100b08e00f57f426b9b24ac147&userId=576
+http://test.h5.com/makeba/index.html
+http://test.h5.com/ent/index.html
+
+
+
+
+Dear all: 
+1.幸运轮主页banner图（修改为轮播）上线了
+
+by 前端开发-刘林
+
+

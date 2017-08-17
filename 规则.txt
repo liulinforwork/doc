@@ -1,0 +1,102 @@
+审核页面
+
+review rw 审核
+cause ca 原因
+title tl 标题
+text txt 文本
+button btn 按钮
+warp wp 容器
+fail 失败
+pass 成功
+note nt 笔记
+image img 图片
+content cnt 内容
+detlais dtl det dl详情 
+abstract abs 摘要
+
+幸运轮
+
+页面名   css类名   中文名
+activityList   al活动页
+fireLine   fl   搭火线活动
+openRead   ord   开启速闻阅读活动
+read   rd   速闻阅读活动
+openInvite   oinv   开启邀新活动
+invite   inv   邀新活动活动
+rank   rk   排行榜
+treasure   ts   寻宝
+inviteTask   it   邀新任务
+inviteTask   itdl   邀新任务详情
+
+css类名   中文名
+top 顶部
+border bor 
+explain exp 解释
+link lk 
+rule rule
+layer ly
+title tl 标题
+mask mk
+close cls
+banner ban
+container 
+block bk
+click ck
+left lt
+right rg
+default def
+value val
+display dp
+special spe 特殊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+简写规则：
+1.英文单词缩写一般以辅音结尾,而不以元音结尾.如 American 省略为 Am,而不省略为 Ame 或 Amer ,Medicine 或 Medical 缩写为 Med,European 缩写为 Eur 等.但 Science 例外,缩写为 Sci,可能是因为元音 I 之后又是元音 E 的缘故.缩写刊名每个词首字母必须大写,而不可全部都用大写或小写;
+
+2.仅个别单词采用压缩字母方式缩写,如 Japanese 缩写为 Jpn 而不是 Jan,National 应缩写为 Natl 而不是 Nat 等.经常有读者将 Japanese 写成 Jan 是参考文献著录中常见的错误.如 Japanese Journal of Ophthalmology ,应缩写为 Jpn J Ophthalmol,National Cancer Institute Research Report 缩写为 Natl Cancer Inst Res Rep。而 Nat 是 Nature 和 Natural 的缩写,如 Nature Medicine,Nature biotechnology 分别缩写为 Nat Med,Nat Biotechnol.另外 CN 是中国的国别代码,期刊缩写刊名中,China，Chinese 不得缩写为 CN ,而应缩写为 Chin.采用压缩写法是为了避免与其他常用缩写混淆.如 Japanese 不能缩写为 Jan,可能是 Jan 是 January 的固定缩写形式,National 缩写为 Natl 而不缩写为 Nat,可能是 Nat 是 Nature 和 Natural 的缩写
+
+企业管理后台
+speedNews:sn
+translate:tl
+fireLine:fl
+activity:act
+group:gp
+consume:cons
+manage:mg
+state:state
+detail:dl
+details:dls
+message:msg
+edit:edit
+
+
+
+审核页面
+review:rv
+cause:cause
+title:title
+text:txt
+button:btn
+buttons:btns
+warp:warp
+fail:fail
+pass:pass
+note:note
+image:img
+images:imgs
+content:cnt
+abstract:abs
